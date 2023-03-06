@@ -7,7 +7,7 @@ Author: Felipe Freire - felbfreire
 ```bash
 $ lua -i main.lua
 
-> dir()
+> dir(_os)
 ```
 
 Output:
